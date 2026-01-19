@@ -1,81 +1,36 @@
-# 🐍 Snake Game (Vanilla JavaScript)
+# Snake Game – Vanilla JavaScript
 
-A classic Snake Game built using **Vanilla JavaScript**, HTML, and CSS.  
-This project focuses on **learning JavaScript by building**, helping to clear core logic concepts such as game loops, collision detection, state management, and DOM manipulation.
-
----
-
-##  Purpose of the Project
-
-This project was created as a **learning exercise** to strengthen JavaScript fundamentals by implementing a real-world interactive application.
-
-Building this game helped in understanding:
-- How game logic works step-by-step
-- How to manage state without frameworks
-- How to debug and fix logical edge cases
-- How JavaScript interacts with the DOM in real time
+A classic Snake Game built using **Vanilla JavaScript** to strengthen core programming logic through project-based learning.
 
 ---
 
-##  Key Concepts Learned
+## About the Project
 
-- **DOM Manipulation**
-- **Event Handling (Keyboard Controls)**
-- **Game Loop using `setInterval`**
-- **Collision Detection**
-  - Wall collision
-  - Self-bite collision
-- **State Management**
-  - Snake body tracking
-  - Direction control
-  - Food spawning logic
-- **Edge Case Handling**
-  - Preventing reverse direction
-  - Avoiding food spawn on snake body
-- **Local Storage**
-  - High score persistence
-- **Code Structuring & Debugging**
+This project was developed to improve understanding of JavaScript fundamentals by implementing a real-time interactive game.  
+It focuses on solving common logic problems such as movement control, collision detection, state management, and DOM manipulation.
 
 ---
 
-## Game Features
+## Key Learnings
 
-- Classic Snake movement (W / A / S / D)
-- Snake grows on eating food
-- Game over on:
-  - Wall collision
-  - Self-bite
-- Score tracking
-- High score saved using `localStorage`
-- Timer display
-- Restart functionality
-- Snake head highlighted with a different color
+- JavaScript game loop using `setInterval`
+- Keyboard event handling
+- Collision detection (wall and self-bite)
+- Managing game state with arrays
+- Preventing logical edge cases
+- Using `localStorage` for high score persistence
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
-- **HTML**
-- **CSS**
-- **Vanilla JavaScript (No frameworks)**
-
----
-
-##  Why This Project Matters
-
-This project is not just about the game — it is about **learning how to think logically as a JavaScript developer**.
-
-Many common beginner issues were solved here, such as:
-- Incorrect collision checks
-- Improper array handling
-- DOM vs data logic confusion
-- Game state synchronization
-
-Completing this project significantly improved confidence in writing **bug-free JavaScript logic**.
+- HTML
+- CSS
+- Vanilla JavaScript
 
 ---
 
-##  How to Run
+## How to Run
 
 1. Clone the repository
    ```bash
