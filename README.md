@@ -5,7 +5,7 @@ This project focuses on **learning JavaScript by building**, helping to clear co
 
 ---
 
-## 🎯 Purpose of the Project
+##  Purpose of the Project
 
 This project was created as a **learning exercise** to strengthen JavaScript fundamentals by implementing a real-world interactive application.
 
@@ -17,7 +17,7 @@ Building this game helped in understanding:
 
 ---
 
-## 🧠 Key Concepts Learned
+##  Key Concepts Learned
 
 - **DOM Manipulation**
 - **Event Handling (Keyboard Controls)**
@@ -38,7 +38,7 @@ Building this game helped in understanding:
 
 ---
 
-## 🎮 Game Features
+## Game Features
 
 - Classic Snake movement (W / A / S / D)
 - Snake grows on eating food
@@ -53,7 +53,7 @@ Building this game helped in understanding:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **HTML**
 - **CSS**
@@ -61,7 +61,7 @@ Building this game helped in understanding:
 
 ---
 
-## 🚀 Why This Project Matters
+##  Why This Project Matters
 
 This project is not just about the game — it is about **learning how to think logically as a JavaScript developer**.
 
@@ -75,7 +75,7 @@ Completing this project significantly improved confidence in writing **bug-free 
 
 ---
 
-## 📌 How to Run
+##  How to Run
 
 1. Clone the repository
    ```bash
