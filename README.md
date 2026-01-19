@@ -3,7 +3,7 @@
 A classic Snake Game built using **Vanilla JavaScript**, HTML, and CSS.  
 This project focuses on **learning JavaScript by building**, helping to clear core logic concepts such as game loops, collision detection, state management, and DOM manipulation.
 
----
+
 
 ##  Purpose of the Project
 
