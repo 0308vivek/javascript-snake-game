@@ -38,4 +38,4 @@ It focuses on solving common logic problems such as movement control, collision 
 ---
 
 ## 🌐 Live Demo
-https://0308vivek.github.io/two-good-clone/](https://0308vivek.github.io/javascript-snake-game/
+https://0308vivek.github.io/javascript-snake-game/
