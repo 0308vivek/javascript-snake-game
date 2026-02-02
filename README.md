@@ -34,3 +34,8 @@ It focuses on solving common logic problems such as movement control, collision 
 1. Clone the repository
 2. Open `index.html` in a web browser
 3. Click start game to continue
+
+---
+
+## 🌐 Live Demo
+https://0308vivek.github.io/two-good-clone/](https://0308vivek.github.io/javascript-snake-game/
